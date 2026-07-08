@@ -1,3 +1,4 @@
+![logo](https://imgs.search.brave.com/pkybWxnXJabR2wXHJW9WWAHex8pt1hDeQaKlaWl-z9g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L3ByZW1pdW0tdmVj/dG9yL2JsdWUtbWlu/aW1hbGlzdC1saW5r/ZWRpbi1jb3Zlci1i/YW5uZXItd2l0aC1i/bHVycmVkLWdyYWRp/ZW50LWJhY2tncm91/bmRfNDkzMjA2LTgx/Mi5qcGc_c2VtdD1h/aXNfaHlicmlkJnc9/NzQwJnE9ODA)
 <h1 align="center">Hi 👋, I'm Sneha Sharma</h1>
 <h3 align="center">💻 Computer Science Engineering Student | Passionate About Learning & Building</h3>
 <img align="right" width="200" src="https://imgs.search.brave.com/dziIvm8cWsNRcUY4ks7yfwp1z7xUlc3dHUldmEqWoco/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/b3VwbGUtbGFwdG9w/LXN5c3RlbS1jb2Rp/bmctbjRpa2F3YmNo/cmgydzQxay5naWY.gif">
